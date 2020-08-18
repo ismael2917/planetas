@@ -1,0 +1,17 @@
+body
+{
+    padding:10px;
+    margin:40px;
+    font-size: 24px;
+    font-family: Helvetica;
+    background-image:url(https://i.pinimg.com/originals/67/b3/a2/67b3a2103e314957d14cf0feb0b8fdb6.gif);
+    background-repeat: repeat;
+    color: white;
+}
+
+nav
+{
+    background-color: white;
+    padding: 0px;
+    color:#68b4f2;
+}
